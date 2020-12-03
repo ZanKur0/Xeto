@@ -1,2 +1,3 @@
 # Xeto
-Easy command paraser
+
+Easy command parser
